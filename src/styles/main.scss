@@ -1,0 +1,13 @@
+
+/* ----Variables--- */
+@import "variables";
+
+@import "fonts";
+
+//------Partials-----
+@import "app/partials/header";
+@import "app/partials/footer";
+
+//-----App-----
+@import "app/homePage";
+@import "app/common";
